@@ -1,0 +1,24 @@
+@page
+@model MiProyectoDapperWeb.Pages.RegisterModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="~/Css/estilos.css">
+</head>
+<body>
+    <h1>Register</h1>
+    <form method="post">
+        <label for="Nombre">Nombre:</label>
+        <input type="text" id="Nombre" name="Nombre" value="@Model.User.Nombre" required>
+        <label for="Email">Email:</label>
+        <input type="email" id="Email" name="Email" value="@Model.User.Email" required>
+        <label for="Contrasenia">Contraseña:</label>
+        <input type="password" id="Contrasenia" name="Contrasenia" required>
+        <button type="submit">Register</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/obj/Debug/net8.0/scopedcss/projectbundle/MiProyectoDapperWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets/MiProyectoDapperWeb.bundle.scp.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/.gitignore",
+      "PackagePath": "staticwebassets/.gitignore"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/COLORES.png",
+      "PackagePath": "staticwebassets/Imagenens/COLORES.png"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/En_venta_modo_oscuro.png",
+      "PackagePath": "staticwebassets/Imagenens/En_venta_modo_oscuro.png"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/Imagenes-funcionales/CARRITO.svg",
+      "PackagePath": "staticwebassets/Imagenens/Imagenes-funcionales/CARRITO.svg"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/Imagenes-funcionales/ESTRELLA.svg",
+      "PackagePath": "staticwebassets/Imagenens/Imagenes-funcionales/ESTRELLA.svg"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/Imagenes-funcionales/GALERIA.svg",
+      "PackagePath": "staticwebassets/Imagenens/Imagenes-funcionales/GALERIA.svg"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/Imagenes-funcionales/PUNTO.svg",
+      "PackagePath": "staticwebassets/Imagenens/Imagenes-funcionales/PUNTO.svg"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/Imagenes-funcionales/SEARCH.svg",
+      "PackagePath": "staticwebassets/Imagenens/Imagenes-funcionales/SEARCH.svg"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/Imagenes-funcionales/guardado.svg",
+      "PackagePath": "staticwebassets/Imagenens/Imagenes-funcionales/guardado.svg"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/Imagenes-funcionales/lapíz.svg",
+      "PackagePath": "staticwebassets/Imagenens/Imagenes-funcionales/lapíz.svg"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/Imagenes-funcionales/luna.svg",
+      "PackagePath": "staticwebassets/Imagenens/Imagenes-funcionales/luna.svg"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/Imagenes-funcionales/ojo no ver.svg",
+      "PackagePath": "staticwebassets/Imagenens/Imagenes-funcionales/ojo no ver.svg"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/Imagenes-funcionales/ojo ver.svg",
+      "PackagePath": "staticwebassets/Imagenens/Imagenes-funcionales/ojo ver.svg"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/Imagenes-funcionales/perfil.svg",
+      "PackagePath": "staticwebassets/Imagenens/Imagenes-funcionales/perfil.svg"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/Imagenes-funcionales/pulgar.svg",
+      "PackagePath": "staticwebassets/Imagenens/Imagenes-funcionales/pulgar.svg"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/Imagenes-funcionales/sol.svg",
+      "PackagePath": "staticwebassets/Imagenens/Imagenes-funcionales/sol.svg"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/modo_claro_login.png",
+      "PackagePath": "staticwebassets/Imagenens/modo_claro_login.png"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/modo_oscuro_register_v2.png",
+      "PackagePath": "staticwebassets/Imagenens/modo_oscuro_register_v2.png"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/tradeo_OFERTO_CLARO.png",
+      "PackagePath": "staticwebassets/Imagenens/tradeo_OFERTO_CLARO.png"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/Imagenens/venta_modo_claro.png",
+      "PackagePath": "staticwebassets/Imagenens/venta_modo_claro.png"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/css/estilos.css",
+      "PackagePath": "staticwebassets/css/estilos.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/css/login.css",
+      "PackagePath": "staticwebassets/css/login.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/css/mode.css",
+      "PackagePath": "staticwebassets/css/mode.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/css/svg.css",
+      "PackagePath": "staticwebassets/css/svg.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/js/Register.html",
+      "PackagePath": "staticwebassets/js/Register.html"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/js/Trade.html",
+      "PackagePath": "staticwebassets/js/Trade.html"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/js/formulario.js",
+      "PackagePath": "staticwebassets/js/formulario.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/js/layout/Aside.html",
+      "PackagePath": "staticwebassets/js/layout/Aside.html"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/js/layout/Navbar.html",
+      "PackagePath": "staticwebassets/js/layout/Navbar.html"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/js/layout/darkmode.html",
+      "PackagePath": "staticwebassets/js/layout/darkmode.html"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/js/layout/producto.html",
+      "PackagePath": "staticwebassets/js/layout/producto.html"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/js/login.js",
+      "PackagePath": "staticwebassets/js/login.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/js/pruebas.html",
+      "PackagePath": "staticwebassets/js/pruebas.html"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/js/toggle.js",
+      "PackagePath": "staticwebassets/js/toggle.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/package-lock.json",
+      "PackagePath": "staticwebassets/package-lock.json"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/package.json",
+      "PackagePath": "staticwebassets/package.json"
+    },
+    {
+      "Id": "/mnt/Datos/2024_5_7/Cheng_Leonardo/Proyecto/MiProyectoDapperWeb/wwwroot/tailwind.config.js",
+      "PackagePath": "staticwebassets/tailwind.config.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MiProyectoDapperWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MiProyectoDapperWeb.props",
+      "PackagePath": "build\\MiProyectoDapperWeb.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MiProyectoDapperWeb.props",
+      "PackagePath": "buildMultiTargeting\\MiProyectoDapperWeb.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MiProyectoDapperWeb.props",
+      "PackagePath": "buildTransitive\\MiProyectoDapperWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
